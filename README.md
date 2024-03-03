@@ -6,6 +6,8 @@ This widget is inspired by the https://www.darujme.cz/ official widget. It is a 
 
 ## Usage
 
+Copy the `Darujme.js` component to your project and use it as shown below: 
+
     ```javascript
     import Darujme from 'Darujme';
 
